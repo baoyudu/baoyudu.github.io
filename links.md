@@ -4,7 +4,6 @@ layout: single
 author_profile: true
 ---
 
-## Links
 
 [Timmy Giorno](https://timmygiorno.github.io/)
 
