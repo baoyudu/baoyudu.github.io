@@ -1,6 +1,5 @@
 ---
 title: 最容易证明的强大数定律
-tags: [数学]
 summary: 
 math: true
 ---

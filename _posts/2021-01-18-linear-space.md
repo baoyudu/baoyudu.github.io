@@ -3,7 +3,6 @@
 title: 线性空间
 date: 2021-01-18 15:00
 author: Bao
-tags: [Math]
 summary: 映射,线性空间与n维向量空间的定义
 math: true
 ---

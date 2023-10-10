@@ -1,6 +1,5 @@
 ---
 title: 深入理解Box-Muller变换
-tags: [统计学]
 summary: 静态页面Markdown渲染与LaTex数学公式引擎MathJax之间的冲突及其解决方案
 published: true
 math: true

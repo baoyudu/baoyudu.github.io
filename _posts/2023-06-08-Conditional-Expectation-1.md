@@ -2,10 +2,10 @@
 layout: single
 title: Understanding the Concept of Conditional Expectation
 date: 2023-06-08
-tags: [Stochastic Process]
 math: true
 ---
 
+A elementary conditional expectations such as $E[X \mid Y=2]$  are numbers. If we consider $E[X \mid Y=y]$, it is a number that depends on $y$. So it is a function of $y$. Thus we can condition with respect to a σ-algebra, and view the conditional expectation itself as arandom variable.
 # Conditional Probability Function
 Let's consider two **discrete** random variables $X$ and $Y$.
 Let $p(x, y)=\mathrm{P}(X=x, Y=y)$ be the joint probability mass function, then the marginal distribution

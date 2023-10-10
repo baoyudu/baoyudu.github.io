@@ -1,6 +1,5 @@
 ---
 title: Markdown渲染器与MathJax数学公式显示的严重冲突及解决方案
-tags: [前端]
 summary: 静态页面Markdown渲染与LaTex数学公式引擎MathJax之间的冲突及其解决方案
 published: true
 ---

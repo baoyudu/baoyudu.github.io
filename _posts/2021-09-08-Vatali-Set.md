@@ -1,6 +1,5 @@
 ---
 title: 不可测集(Vatali Set)的构造
-tags: [数学]
 published: true
 math: true
 ---

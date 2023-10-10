@@ -2,11 +2,9 @@
 layout: single
 title: Understand the concept of Filtration
 date: 2023-06-05 16:41
-tags: [Stochastic Process]
 math: true
 ---
 
-# Definition
 
 > A filtration on $(\Omega, \mathcal{A}, \mathbb{P})$ is an increasing sequence $\left(\mathcal{F}_n\right)_{n \in \mathbb{Z}_{+}}$of sub- $\sigma$-fields of $\mathcal{A}$. We have thus
 > $$

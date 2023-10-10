@@ -107,7 +107,7 @@ author:
   name             : "Bao Yu（包煜）"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Stay curious."
-  location         : "China Mainland"
+  location         : "Harbin, China"
   email            : baoyudu@outlook.com
   links:
     - label: "Email"
@@ -194,20 +194,21 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 markdown: kramdown
 highlighter: rouge
 lsi: false
-excerpt_separator: "\n\n"
+excerpt_separator: "\n"
 incremental: false
 
 
 # Markdown Processing
 kramdown:
   input: GFM
-  hard_wrap: false
+  hard_wrap: true
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+  header_offset: 1   # 这会使得 # 变成 h3, ## 变成 h4, 等等.
 
 
 # Sass/SCSS
@@ -219,7 +220,7 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+paginate_path: /blogs/page:num
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
@@ -253,9 +254,9 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
-tag_archive:
-  type: liquid
-  path: /tags/
+# tag_archive:
+#   type: liquid
+#   path: /tags/
 # https://github.com/jekyll/jekyll-archives
 # jekyll-archives:
 #   enabled:
@@ -286,7 +287,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      show_date: true
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false

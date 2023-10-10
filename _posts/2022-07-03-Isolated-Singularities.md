@@ -1,6 +1,5 @@
 ---
 title: 孤立奇点
-tags: [Math]
 math: true
 ---
 Laurent级数是研究全纯函数在孤立奇点附近性质的有力工具.
