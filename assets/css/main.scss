@@ -11,4 +11,9 @@ search: false
 // Custom styles: Remove underline of hte post title
 .archive__item-title a {
     text-decoration: none;
+
+  }
+
+  a:visited {
+    color: #000000;
   }

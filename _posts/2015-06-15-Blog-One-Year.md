@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 纪念博客成立一周年
 date: 2015-06-15 14:00
 author: admin

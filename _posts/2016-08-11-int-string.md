@@ -1,5 +1,5 @@
 ---
-layout:     post
+
 title:      " Android学习笔记－－将int数据以字符串形式输出"
 subtitle:   " "
 tags:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Understand the concept of Filtration
 date: 2023-06-05 16:41
 tags: [Stochastic Process]

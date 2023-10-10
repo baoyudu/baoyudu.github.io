@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 博客迁移至ghost
 categories:
   - blog

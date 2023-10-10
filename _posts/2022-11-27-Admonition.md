@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 怎样在文章页面显示美观的Admonition
 category: 
 author: 

@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 编程梦想之路
 date: '2014-05-16 19:42'
 author: admin

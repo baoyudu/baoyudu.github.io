@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Understanding the Concept of Conditional Expectation
 date: 2023-06-08
 tags: [Stochastic Process]

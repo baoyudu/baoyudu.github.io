@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Real Analysis Note 1
 date: 2021-01-15 10:26
 author: Bao

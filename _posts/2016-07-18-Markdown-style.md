@@ -1,5 +1,5 @@
 ---
-layout: post
+
 title: 对完美的追逐
 categories: [blog ]
 tags: [Blog]
