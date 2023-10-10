@@ -5,7 +5,6 @@ math: true
 ---
 
 # 理想测度
-
 在我们心里, 在实数域中最"美好"的测度应该具有这几条性质:
 
 0. $\lambda :{\mathscr P}(R) \to R{_ + } \cup \left\\{ \infty  \right\\}$
@@ -48,7 +47,7 @@ $F = E \cup (F|E)$.
 因为$p-q \in Q$,所以$\alpha-\beta \in Q$,由等价定义知，$\alpha \sim \beta$。
 再由$\Omega$的定义, $\alpha = \beta$, 那么$p = q$
 证毕。
-![示意图]({{ "/images/VataliSet.png"}})
+![示意图]({{ "/assets/images/VataliSet.png"}})
 对这个证明可以这样理解:
 为了画图方便, 我在这里先假设$p=0$,$q \neq 0$. 那么$\Lambda$中的某个元素$x$向右平移$q$后,不可能有$\Lambda$中元素$y$和$x+q$重合(因为$\Lambda$中每个等价类只取一个, 而$x$和$x+q$是一个等价类的).
 # 不可测集的构造
