@@ -107,3 +107,13 @@
 .notice--danger {
   @include notice($danger-color);
 }
+
+
+// Adminations
+.thm {
+  @include notice(#7cf1f9);
+}
+
+.def {
+  @include notice(#73ceff);
+}
