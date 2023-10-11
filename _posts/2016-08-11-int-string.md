@@ -42,14 +42,12 @@ public class MainActivity extends Activity implements OnItemClickListener//接�
     }
 }
 ```
-这样运行后 程序发生了fc
-我注意到 p3这个参数是int类型 而Toast要输出text
+这样运行后，程序发生了崩溃。
+我注意到p3这个参数是int类型，而Toast要输出text
 可是怎么办呢
 误打误撞
 将这行改成这样
 `Toast.makeText(MainActivity.this,"" + p3,Toast.LENGTH_SHORT).show();`
 
-也就是，在int数据前 加了一个空的字符串
-成功的运行 达到了我想要的结果
-我想 也许是  __""__  将p3转化为了字符串 （或者说 把它添加进了字符串中）
-###### 希望能帮忙解释一下 Java相关部分基础学的实在一般
+也就是在int数据前加了一个空的字符串，成功运行并达到了我想要的结果
+我想，也许是  __""__  将p3转化为了字符串 （或者说把它添加进了字符串中）

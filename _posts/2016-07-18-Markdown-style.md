@@ -7,9 +7,6 @@ description: Ghost Markdown样式自定义
 ---
 
 
-
-上图为markdown标志
-
 在网站成功转移至Ghost上后，我修改了主题风格至GitHub上的crossing。这样我发现了一个细节，即文章页面的quote字段风格很丑，是斜体且居中。 追求完美的我绝不能容忍。懒得打开电脑的我用juiceSSH生成密匙ssh链接服务器。cd到themes目录。一段时间的探索后，我发现markdown风格数据似乎储存在/content/themes/css/style.css中。 ssh控制台输入：
 
 `vim style.css`
@@ -26,6 +23,6 @@ description: Ghost Markdown样式自定义
 
 > 嘿 我就是效果
 
-而原来是直接居中文字 就是这么一个细节，花费了我的一个晚上，至少我克服了它，而它是Google和百度上所没有的。
+而原来是直接居中文字。就是这么一个细节，花费了我的一个晚上，至少我克服了它，而它是Google和百度上所没有的。
 
 
