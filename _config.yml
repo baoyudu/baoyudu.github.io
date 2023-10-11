@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bao Yu（包煜）"
+  name             : "Bao Yu"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Stay curious."
   location         : "Harbin, China"
