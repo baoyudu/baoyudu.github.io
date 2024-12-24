@@ -5,12 +5,12 @@ author_profile: true
 
 Here is **Bao Yu (包煜)**.
 
-I am a senior student majoring in **Statistics** and minoring in **Artificial Intelligence** at Harbin Institute of Technology **(HIT)**. Currently, I am a member of the Research Center for Social Computing and Information Retrieval **(SCIR)**, where I will be pursuing my Master's degree in Computer Science starting in 2024. I am privileged to be under the guidance of [Prof. Xiao Ding](http://ir.hit.edu.cn/~xding/). 
+I am a student member of the Research Center for Social Computing and Information Retrieval **(SCIR)**, privileged to be under the guidance of [Prof. Xiao Ding](http://ir.hit.edu.cn/~xding/). 
 
 # Academic Background
 
-- **Sep 2020 - June 2024 (Expected):**  Harbin Institute of Technology (BSc)
-- **Sep 2020 - June 2024 (Expected):** Harbin Institute of Technology (BEng)
+- **Sep 2020 - June 2024:**  Harbin Institute of Technology (BSc), Statistics
+- **Sep 2020 - June 2024:** Harbin Institute of Technology (BEng), Artificial Intelligence
 
 # Research Interests
 
