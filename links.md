@@ -3,7 +3,7 @@
 layout: single
 author_profile: true
 ---
-
+[GoldenPotato](https://goldenpotato.cn/)
 
 [Timmy Giorno](https://timmygiorno.github.io/)
 
